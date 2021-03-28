@@ -10,8 +10,8 @@ Student , Undergraduate , Developer , Investor!
 
 Connect with me 🌎: 
 
-<img align="left" alt="Instagram" width="26px" src="https://ibb.co/yBbqspr"/>
-<img align="left" alt="Github" width="26px" src="https://ibb.co/wpGxd2q"/>
+<img align="left" alt="Instagram" width="26px" src="https://user-images.githubusercontent.com/77247670/112740212-1acd9f80-8f49-11eb-9f12-2e2bd1a6be95.jpg"/>
+<img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/77247670/112740238-481a4d80-8f49-11eb-8c77-588b36b1ce61.png"/>
 
 
 Languages and Tools 💻:
@@ -23,4 +23,5 @@ Languages and Tools 💻:
 <img align="left" alt="Html" width="26px" src="https://ibb.co/tX23Brk" />
 <img align="left" alt="CSS" width="26px" src="https://ibb.co/FWqjrmz" />
 <img align="left" alt="VBA" width="26px" src="https://ibb.co/sQBfx4x" />
+
 
