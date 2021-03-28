@@ -1,6 +1,4 @@
-### Heyo , I'm Dhar Patel! 👋
-
-Heyo, I'm Dhar Patel 🌹🌹🌹 -- a Computer Science student an aspiring web/software developer building some projects to enhance my portfolio and knowledge of various cool concepts. My working principle is Be an Active Learner.
+Heyo, I'm Dhar Patel 👋🌹 -- a Computer Science student an aspiring web/software developer building some projects to enhance my portfolio and knowledge of various cool concepts. My working principle is Be an Active Learner.
 
 Student , Undergraduate , Developer , Investor!
 - 🔭 I’m currently working on many projects!
