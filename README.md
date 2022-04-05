@@ -2,7 +2,7 @@ Heyo, I'm Dhar Patel 👋🌹 -- a Computer Science student an aspiring web/soft
 
 Student , Undergraduate , Developer , Investor!
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about Investing, Technology , Life :) !
 - ⚡ Fun fact: I spend half my life on Discord 😮
 
