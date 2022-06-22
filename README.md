@@ -10,7 +10,7 @@ I'm a computer science student aspiring to be a web/software developer building 
 * ✉️  You can contact me at [dharwlu@gmail.com](mailto:dharwlu@gmail.com)
 * 🧠  I'm learning Javascript and deeper front end development!
 * 🤝  I'm open to collaborating on Interesting Projects!
-* ⚡  Fun Fact: Lowkey spent half my life on discord 😫
+* ⚡  Underrated Opinion: Tea is better than coffee 😫
 
 ### Skills
 
